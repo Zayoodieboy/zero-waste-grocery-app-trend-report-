@@ -71,6 +71,8 @@ forecasting customer demands.
 Hong et al. (2014, p.1) stated that “the absence of food waste management has caused serious
 environmental and financial issues.” Nonetheless, an innovative food waste mobile application could
 become a platform for social participation towards customers who do grocery shopping.
+<!-- Add the original Word-document image(s) from the Zone 1 section here. -->
+
 ## Zone 2: Trend Drivers
      Supermarkets that partners up with innovative technology
       companies
